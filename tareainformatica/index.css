@@ -1,0 +1,19 @@
+body{
+background-image: url(img/img.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position:center;
+}
+form{
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+input{
+    font-size: medium;
+}
+button{
+    background-attachment: fixed;
+    background-color: beige;
+}
+
